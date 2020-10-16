@@ -1,0 +1,6 @@
+pt: este link é para aquelas pessoas que não conseguiram baixar todos os arquivos, incluindo o corpus de tamanho de 75 MB.
+Obs: o GitHup não suporta esse tamanho de arquivo.
+
+
+eng: this link is for those people who were unable to download all files, including the 75 MB corpus.
+Note: GitHup does not support this file size.
