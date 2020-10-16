@@ -4,3 +4,5 @@ Obs: o GitHup não suporta esse tamanho de arquivo.
 
 eng: this link is for those people who were unable to download all files, including the 75 MB corpus.
 Note: GitHup does not support this file size.
+
+---> https://drive.google.com/drive/folders/1IpOkd9ho3owA6gTL7uMivUg-H9oOHKX0?usp=sharing
